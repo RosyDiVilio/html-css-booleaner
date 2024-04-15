@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-size: small;
 }   
 
 header{
@@ -38,4 +39,12 @@ img{
 .caption{
     font-size: xx-small;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paragraph{
+    margin-top: 15px;
+}
+
+ul{
+    padding-left: 15px;
 }
