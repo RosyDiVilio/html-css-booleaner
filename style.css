@@ -1,12 +1,41 @@
 *{
     margin: 0;
-}
+}   
 
 header{
     background-color: #9cd6f4;
 }
 
-#logo{
+.spaziatura{
     height: 30px;
-    padding: 25px 5px;
+    padding: 25px 10px;
+}
+
+#heading{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text{
+    color: #808080;
+    font-size: small;
+    
+}
+
+#data{
+    color: #808080;
+    font-size: x-small;
+}
+
+img{
+    height: 270px;
+}
+
+#img-space{
+    margin-top: 15px;
+}
+
+.caption{
+    font-size: xx-small;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
