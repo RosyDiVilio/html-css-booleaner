@@ -4,12 +4,21 @@
 }   
 
 header{
-    background-color: #9cd6f4;
+    background-color: #9cd6f4;}
+
+main{
+    margin: 0 100px 0 100px;
+}
+
+header{
+    background-image: url(img/pattern.png);
+    background-size: 27%;
 }
 
 #logostyle{
     height: 30px;
     padding: 25px 10px;
+    margin: 0 100px 0 100px;
 }
 
 .spaziatura{
