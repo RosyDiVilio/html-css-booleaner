@@ -7,8 +7,13 @@ header{
     background-color: #9cd6f4;
 }
 
-.spaziatura{
+#logostyle{
     height: 30px;
+    padding: 25px 10px;
+}
+
+.spaziatura{
+    margin-top: 10px;
     padding: 25px 10px;
 }
 
@@ -20,7 +25,6 @@ header{
 .text{
     color: #808080;
     font-size: small;
-    
 }
 
 #data{
@@ -30,10 +34,6 @@ header{
 
 img{
     height: 270px;
-}
-
-#img-space{
-    margin-top: 15px;
 }
 
 .caption{
@@ -47,4 +47,30 @@ img{
 
 ul{
     padding-left: 15px;
+}
+
+table{
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+thead{
+    background-color: #7fa6fb;
+    text-align: left;
+    color: white;
+}    
+
+.right{
+    width: 50%;
+}
+
+#diritti{
+    background-color: #313a6b;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.color{
+    background-color: #dfe5f2;
 }
